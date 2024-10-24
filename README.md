@@ -1,5 +1,5 @@
 ## Computer Organization (CSC250, Spring 2022) - Homework Assignments
-This repository contains all of my homework assignments from the Computer Organization class. Each assignment focuses on a different aspect of computer architecture and organization, covering topics such as assembly programming, binary arithmetic, and CPU design. Below is a breakdown of each homework included in this repository:
+This repository contains all of my homework assignments from the Computer Organization class. Each assignment focuses on a different aspect of computer architecture and organization, covering topics such as assembly programming, binary arithmetic, and CPU design. The homeworks are mostly written in C and some in assembly. Below is a breakdown of each homework included in this repository:
 - HW1 Assembler:
   This assignment covers the basics of assembly language, focusing on translating basic assembly instructions into machine code.
 - HW2 Binary:
